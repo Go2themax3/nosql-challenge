@@ -24,9 +24,9 @@ Determine the distribution of establishments with the best hygiene scores (score
 For Employers
 This project provides an insight into my ability to manage, modify, and analyze large datasets. I've used NoSQL databases and combined my knowledge with data analysis techniques to extract meaningful information. The results will assist "Eat Safe, Love" magazine in targeting high-quality establishments for its readers.
 
-If you're interested in discussing this project further or exploring other ways I can contribute to your organization, please contact me.
+If you're interested in discussing this project further or exploring other ways I can contribute to your organization, please contact me at maxtravisyoung@gmail.com 
 
-Note: Make sure to replace youremail@example.com with your actual email before sharing the README.
+
 
 
 
